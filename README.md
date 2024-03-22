@@ -1,16 +1,9 @@
 # appcontador
 
-A new Flutter project.
+O objetivo deste aplicativo é permitir que um funcionário realize a contagem de pessoas entrando e saindo de um ambiente fechado, para evitar que mais pessoas que o permitido acessem o ambiente. A partir deste aplicativo simples, vamos conhecer os primeiros passos de desenvolvimento de aplicativos com o Flutter.
 
-## Getting Started
+## Dupla
 
-This project is a starting point for a Flutter application.
+M1: 22117002 / M2: 12100036
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image.png)
